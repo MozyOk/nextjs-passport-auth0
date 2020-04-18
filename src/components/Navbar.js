@@ -10,7 +10,7 @@ export default function AppNavbar({ user }) {
       <Container>
         <Navbar.Brand>
           <Link href="/">
-            <a>Thoughts!</a>
+            <a>Thoughts</a>
           </Link>
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
